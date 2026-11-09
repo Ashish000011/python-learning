@@ -3,7 +3,7 @@
 Self-study notes, practice sets and mini-projects from learning Python.
 
 - `notes/` — chapter-wise notes, numbered in order
-- `practice/` — problem sets on strings, lists, tuples, sets, dictionaries and loops, plus a mixed set for chapters 1–10
+- `practice/` — problem sets on strings, lists, tuples, sets, dictionaries and loops, a mixed set for chapters 1–10, and the lab exam practice for Units 3–5 (`files/` holds the text files for file questions)
 - `college-labs/` — Python lab work from NITT
 - `neetcode/` — NeetCode problems, named by problem number
 - `projects/` — small programs
