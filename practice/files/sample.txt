@@ -1,0 +1,5 @@
+Hello from sample.txt!
+This file is for practising file input and output in Python.
+Line 3: Python is fun.
+Line 4: NIT Trichy, MCA 2029.
+Line 5: The end.
